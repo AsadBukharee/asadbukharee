@@ -31,13 +31,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/asadbukharee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/asadbukharee" height="30" width="40" /></a>
-<a href="https://twitter.com/asadnaqve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadnaqve" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8887240/asad-abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8887240/asad-abbas" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/asadnaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/asadnaqvi" height="30" width="40" /></a>
-<a href="https://medium.com/@asadbukharee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asadbukharee" height="30" width="40" /></a>
+<h3 align="left" >Connect with me:</h3>
+<p align="center" >
+<a style="margin:3%" href="https://codepen.io/https://codepen.io/asadbukharee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/asadbukharee" height="30" width="40" /></a>
+<a style="margin:3%"href="https://twitter.com/asadnaqve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadnaqve" height="30" width="40" /></a>
+<a style="margin:3%"href="https://stackoverflow.com/users/https://stackoverflow.com/users/8887240/asad-abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8887240/asad-abbas" height="30" width="40" /></a>
+<a style="margin:3%"href="https://kaggle.com/https://www.kaggle.com/asadnaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/asadnaqvi" height="30" width="40" /></a>
+<a style="margin:3%"href="https://medium.com/@asadbukharee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asadbukharee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
